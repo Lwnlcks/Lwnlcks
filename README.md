@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lwnlcks</h1>
 <h3 align="center">A passionate frontend and backend developer from korea</h3>
 
-- 🔭 I’m currently working on **jichankkutu**
-
-- 👯 I’m looking to collaborate on **jichanwiki**
-
-- 📫 How to reach me **support@jichanwiki.kro.kr**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lwnlcks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lwnlcks" height="30" width="40" /></a>
